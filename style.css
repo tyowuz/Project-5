@@ -1,3 +1,75 @@
 body{
-    background-color: black;
+    background-color: rgb(233, 245, 255);
+    font-family: sans-serif;
+    
+    }
+.whole{
+    width: 40vw;
+    height: 250px; 
+    margin: 50px 32.5%;    
+}
+.join{
+    font-size: small;
+    color: rgb(0, 177, 177); 
+    font-weight: bolder;
+
+}
+.three{
+    color: rgb(125, 233, 1);
+    font-weight: bold;
+}
+.write_up{
+    font-size: xx-small;
+    margin: 0px;
+    padding: 18px;
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px ;
+}
+   
+.bothbox{
+    font-size: xx-small;
+    margin: 0px;
+    width: 40vw;
+    height: 140px;
+}
+.leftbox{
+    color: white;
+    width: 20vw;
+     
+    height: 140px;
+    background-color: rgb(1, 199, 199);
+    float: right;
+}
+.month{
+    font-size: xx-small;
+    margin: 0px;
+    padding: 23px;
+}  
+.b{
+    color: rgba(255, 255, 255, 0.5);
+} 
+
+.rightbox{
+    color: white;
+    width: 20vw; 
+    height: 140px;
+    background-color: rgb(0, 177, 177);
+    
+}
+.why_us{
+    padding: 23px;
+    margin: 0px;
+}
+.two_nine{
+    font-size: medium;
+    margin: 0px 7px 70px 0px ;
+}
+.ah{
+    margin: 0px 10px 10px 23px ;
+}
+.sign_up{
+    padding: 5px 50px;
+    background-color: rgb(136, 255, 0);
+    border-radius: 2px;
 }
